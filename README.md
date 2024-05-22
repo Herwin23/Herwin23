@@ -1,16 +1,18 @@
-### Hi there 👋
+# Halo, Saya Herwin Pakpahan
 
-<!--
-**Herwin23/Herwin23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Selamat datang di profil GitHub saya! 👋
 
-Here are some ideas to get you started:
+Saya adalah [peran Anda] di [perusahaan atau proyek]. Saya tertarik pada [bidang minat Anda], dan saya suka berkontribusi ke komunitas open source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyek Terkini
+
+- 🚀 [Nama Proyek 1](https://github.com/username/nama-proyek-1): Deskripsi singkat proyek.
+- 💡 [Nama Proyek 2](https://github.com/username/nama-proyek-2): Deskripsi singkat proyek.
+
+## Temukan Saya di Web
+
+- 📝 Baca blog saya di [Nama Blog](https://blog.example.com).
+- 🐦 Ikuti saya di [Twitter](https://twitter.com/username).
+- 💼 Hubungi saya di [LinkedIn](https://linkedin.com/in/username).
+
+Jangan ragu untuk menghubungi saya jika Anda ingin berdiskusi tentang proyek, bekerja sama, atau hanya sekedar mengobrol. Terima kasih telah mengunjungi profil saya! 😊
